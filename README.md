@@ -1,7 +1,5 @@
-# Salary Prediction Using Simple Linear Regression
+# Advertising Budget Optimization and Sales Prediction  Using Regression Model
 
-📌 Project Description (Short & Clear)
+This project analyzes an advertising dataset containing the monthly advertising expenditure across TV, Radio, and Newspaper channels along with corresponding increases in product sales. The objective is to build a predictive model that estimates the expected increase in sales based on advertisement spending and to uncover insights that help businesses optimize their marketing budgets.
 
-This project builds a Simple Linear Regression model to predict employee salaries based on their years of experience. The workflow includes data cleaning, exploratory data analysis (EDA), visualization, and model training/testing using Python. Boxplots and distribution plots were used to detect outliers and understand data spread, while scatter plots with regression lines revealed the relationship between salary and experience.
-
-The dataset is split into training and testing sets, after which a regression model is fitted to evaluate coefficients, visualize predictions, and compute performance metrics such as the R² score and Mean Squared Error. Finally, the model is tested with unseen data to generate salary predictions, demonstrating its real-world applicability.
+Using regression techniques, the project performs data preprocessing, exploratory data analysis (EDA), feature correlation study, and model development using multiple ML algorithms (Linear Regression, Ridge, Lasso, etc.). Each model is evaluated and fine-tuned to identify the best-performing approach. The analysis also highlights which advertising channels have the highest impact on sales, enabling companies to make informed decisions on where and how much to invest to maximize return on investment (ROI).
